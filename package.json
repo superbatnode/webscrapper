@@ -1,0 +1,20 @@
+{
+  "name": "web-scrapper",
+  "version": "1.0.0",
+  "description": "Question no 4",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/superbatnode/webscrapper.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/superbatnode/webscrapper/issues"
+  },
+  "homepage": "https://github.com/superbatnode/webscrapper#readme"
+}
