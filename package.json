@@ -19,8 +19,9 @@
   },
   "homepage": "https://github.com/superbatnode/webscrapper#readme",
   "dependencies": {
+    "axios": "^0.27.2",
+    "cheerio": "^1.0.0-rc.12",
     "dotenv": "^16.0.1",
-    "mongoose": "^6.4.0",
-    "puppeteer": "^15.1.0"
+    "mongodb": "^4.7.0"
   }
 }
